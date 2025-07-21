@@ -1,18 +1,5 @@
 
-
-<div align="center">
-  <a href="https://github.com/eelb07/gitanimals">
-    <img src="https://render.gitanimals.org/lines/eelb07?pet-id=720196167942979743" width="24.5%" height="100"/>
-  </a>
-  <a href="https://github.com/eelb07/gitanimals">
-    <img src="https://render.gitanimals.org/lines/eelb07?pet-id=617249431703099023" width="24.5%" height="100"/>
-  </a>
-  <a href="https://github.com/eelb07/gitanimals">
-    <img src="https://render.gitanimals.org/lines/eelb07?pet-id=617253057909591581" width="24.5%" height="100"/>
-  </a>
-  <a href="https://github.com/eelb07/gitanimals">
-    <img src="https://render.gitanimals.org/lines/eelb07?pet-id=722312947056686219" width="24.5%" height="100"/>
-  </a>
+<img src="https://render.gitanimals.org/lines/eelb07?pet-id=720196167942979743" width="30%" height="100"/><img src="https://render.gitanimals.org/lines/eelb07?pet-id=722312947056686219" width="30%" height="100"/><img src="https://render.gitanimals.org/lines/eelb07?pet-id=735176658347938079" width="30%" height="100"/>
 </div>
 <br><br><br>
 <p align="center">
