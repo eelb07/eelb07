@@ -7,3 +7,11 @@
     <img src="./assets/kirby_dance.gif" width="50"/>
   </a>
 </p>
+
+<br><br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eelb07/eelb07/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eelb07/eelb07/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eelb07/eelb07/output/pacman-contribution-graph.svg">
+</picture>
